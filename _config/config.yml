@@ -1,0 +1,14 @@
+---
+Name: customcss
+After:
+  - 'mysite/*'
+---
+CustomCSS:
+  Rows: 15
+  Stacked: true
+SiteConfig:
+  extensions:
+    - SiteConfigExtension
+Page_Controller:
+  extensions:
+    - PageExtension
