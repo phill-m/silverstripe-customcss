@@ -1,0 +1,8 @@
+{
+  "name": "phill-m/silverstripe-customcss",
+  "description": "Adds a code editor field to SiteConfig to add custom css to the website through the admin system.",
+  "require": {
+    "silverstripe/framework": "3.*",
+    "silverstripe/cms": "3.*"
+  }
+}
