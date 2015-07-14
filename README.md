@@ -1,8 +1,5 @@
 # silverstripe-customcss
 
-
-Description
--------------------------
 This module adds a css code editor field to site config allowing users to add custom css to
 their website through the admin system.
 
@@ -25,6 +22,6 @@ Configuration Options
 -------------------------
 ```
 CustomCSS:
-  Rows: 15          # The number of rows t obe displayed
+  Rows: 15          # The number of rows to be displayed
   Stacked: true     # If true the field will be displayed below the fields label
 ```
